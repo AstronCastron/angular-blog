@@ -25,5 +25,15 @@
 
 .content__description > p {
     margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     color: rgb(197, 197, 197);
+    text-indent: 50px;
+    text-align: justify;
+    width: 500px;
+    align-items: center;
+}
+
+.content__title > h1 {
+    align-items: center;
 }
